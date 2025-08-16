@@ -1,28 +1,29 @@
 # Welcome to Youssef Ekramy's profile!
 
-👋 Hi there! I'm Youssef Ekramy, an undergraduate student in the Electronics and Electrical Communications Engineering Department at the Faculty of Engineering, Cairo University. Passionate about embedded systems, digital design, and data structures, I am constantly expanding my knowledge and skills in these areas.
+👋 Hi there! I'm Youssef Ekramy, a Senior-2 student in the Electronics and Electrical Communications Engineering Department at the Faculty of Engineering, Cairo University. Passionate about Digital Design and Digital Verification, I am constantly expanding my knowledge and skills in these areas.
 
 
 ## 🚀 About Me
 
 - **Electronics and Electrical Communications Engineering student at Cairo University**
+- **Digital Verification intern at Si-Vision Academy**
+- **IP/MPLS Network Intern at Nokia Egypt**
 - **Network Operations Center (NOC) Intern at Orange Egypt**
-- **Representative for EECE 2026**
-- **Multimedia Member at TCCD**
-- **Business Development Member at Cairo University Racing Team – Formula One (CURT)**
-- **Robotics Moderator at STP**
-- **Ambassador for Taqaddam Program**
+
 
 ## 🛠️ Skills
 
 - **Programming Languages:**
+  - Verilog
+  - System Verilog
   - C++
   - C
   - Embedded C
-  - Verilog
 
 - **Tools and Technologies:**
-  - Arduino
+  - Synopsys Tools (VCS and Verdi)
+  - Questasim and Modelsim
+  - Vivado for FPGA Flow
   - Microcontrollers
   - Microsoft Office Suite (Word, Excel, PowerPoint)
 
